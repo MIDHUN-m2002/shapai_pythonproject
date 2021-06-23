@@ -1,0 +1,7 @@
+-------------------------------------------------------------
+Weather Stats for - BANGLOR  || 22 Jun 2021 | 06:12:27 PM
+-------------------------------------------------------------
+Current temperature is: 27.54000000000002	deg C
+Current weather desc  :light rain
+Current Humidity      :78
+Current wind speed    :1.18
